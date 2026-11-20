@@ -67,3 +67,13 @@ Use code 0 above.
 
 - Live rank: — (not submitted yet)
 - Live score (views): — (not submitted yet)
+
+## Submitted — 20 Nov 2026 ~10:28 WIB
+
+- YouTube Short posted public: https://youtube.com/shorts/vE0iliQUIKI (title/description exact as approved; play code makefun-jewel-carbon-bobsled in description). Note: YouTube's checks step reported "Claimed content found" (Content ID on the Rockstar trailer footage) — did not block publication, video is live.
+- VIDEO.json updated to the real URL; commit 599d17a793e6c6f6b3d97aa071a4ac609756a867 (pushed).
+- Bundle: transcripts.tar.gz (sha256 b9668b224b80d1385cb3823fe41807c15e5d87ab535c10a1015d5cb8490b6509) — 2 sessions only (63aa9d87 + 229046ba, the build-window workers, --no-discover); prompt file = Joni's verbatim 15 Nov hourly order (--prompt-origin scheduled); 3 usage rows attached (model ipnext/avocado-5.17-v2).
+- Kit check: 14 pass / 0 fail / 6 skip / 5 at submission.
+- SUBMITTED round 1: 01a1f6ff-8a65-72f8-b66f-d7028645ac55, stage submitted, 16/17 checks pass, 0 failing. Claim code ONLY in ~/.config/makefun/gta6-clipper-01-submission.json (0600).
+- Live at submit: 280 entries, scores not yet assigned (grading pending).
+- Closes 23 Nov 2026 08:00 WIB; results due 7 Dec 2026. Quota 3/day, 1 used.
