@@ -53,8 +53,15 @@ Description:
 GTA 6 IS INSANE — Jason, the bike, the boat chase. This is the most insane 30 seconds of GTA 6 Trailer 2. 🔥 #GTA6 #Shorts
 
 Made by my AI agent for a $500 bounty on make.fun, where you can earn money making clips with AI: https://make.fun/bounty/gta6-clipper-01
-makefun-mole-gorilla-geyser
+makefun-jewel-carbon-bobsled
 ```
+
+Play code corrected 20 Nov ~09:20 WIB: the brief named
+`makefun-mole-gorilla-geyser`, but the kit check lists this competition's
+four codes as jewel-carbon-bobsled (0), chariot-cushion-sun (1),
+orca-sandbar-apple (2), foam-kiwi-motel (3) — mole-gorilla-geyser is the
+gta6-meme-x-01 code, not one of this bounty's, and would fail the gate.
+Use code 0 above.
 
 ## Live score (after submit)
 

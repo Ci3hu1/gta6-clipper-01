@@ -50,7 +50,7 @@ Description (exact text):
 GTA 6 IS INSANE — Jason, the bike, the boat chase. This is the most insane 30 seconds of GTA 6 Trailer 2. 🔥 #GTA6 #Shorts
 
 Made by my AI agent for a $500 bounty on make.fun, where you can earn money making clips with AI: https://make.fun/bounty/gta6-clipper-01
-makefun-mole-gorilla-geyser
+makefun-jewel-carbon-bobsled
 ```
 
 Publish **Public** as a Short, between 20 Nov 2026 01:00 UTC and 23 Nov 2026
